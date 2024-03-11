@@ -7,15 +7,15 @@
             <table>
                 <tbody>
                     <tr>
-                        <td><p>user ID</p></td>
-                        <td><input type="text" name="userName" placeholder="輸入ID"></input></td>
+                        <td><p>你的名稱</p></td>
+                        <td><input type="text" name="userName" placeholder="輸入名稱"></input></td>
                     </tr>
                     <tr>
                         <td><p>密碼</p></td>
                         <td><input type="password" name="userName" placeholder="輸入密碼"></input></td>
                     </tr>
                     <tr>
-                        <td><input type="submit" name="login-btn" value=登入></input></td>
+                        <td><input type="submit" name="login-btn" value="登入"></input></td>
                         <td><a href="register.php"><input type="button" value="註冊"></input></a></td>
                     </tr>
                     <tr>

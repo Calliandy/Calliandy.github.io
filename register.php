@@ -7,7 +7,7 @@
             <table>
                 <tbody>
                     <tr>
-                        <td><p>user ID</p></td>
+                        <td><p>名稱</p></td>
                         <td><input type="text" name="userName" placeholder="輸入ID"></input></td>
                     </tr>
                     <tr>
